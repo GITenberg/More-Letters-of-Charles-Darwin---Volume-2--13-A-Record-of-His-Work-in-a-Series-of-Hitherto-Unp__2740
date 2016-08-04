@@ -1,0 +1,44 @@
+_repo: More-Letters-of-Charles-Darwin---Volume-2--13-A-Record-of-His-Work-in-a-Series-of-Hitherto-Unp__2740
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+  editors:
+  - agent_name: Darwin, Francis, Sir
+    alias: Darwin, Sir Francis
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '1807'
+    url: http://www.gutenberg.org/2009/agents/1807
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Darwin
+  - agent_name: Seward, A. C. (Albert Charles)
+    alias: Seward, Albert Charles, Sir
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '749'
+    url: http://www.gutenberg.org/2009/agents/749
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Charles_Seward
+description: ''
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Darwin, Charles, 1809-1882 -- Correspondence'
+- !lcsh 'Naturalists -- Great Britain -- Correspondence'
+- !lcc 'QH'
+- !lcsh 'Evolution (Biology)'
+- GITenberg
+title: "More Letters of Charles Darwin — Volume 2\r\nA Record of His Work in a Series\
+  \ of Hitherto Unpublished Letters"
+url: http://www.gutenberg.org/ebooks/2740
